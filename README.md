@@ -31,8 +31,8 @@ This project implements a relational database schema for a Library Management Sy
 
 ## 🧑‍💻 Author
 
-- Your Name
-- [Your GitHub Profile](https://github.com/yourusername)
+- Boipelo
+- [Your GitHub Profile](https://github.com/boipeloawongele)
 
 ## 📄 License
 
